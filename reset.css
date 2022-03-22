@@ -1,0 +1,17 @@
+#root{
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+@font-face {
+    font-family: dw;
+    src: url(/DoctorBeef-DOyyd.ttf);
+}
+
+@font-face {
+    font-family: dw-text;
+    src: url(./SyneMono-Regular.ttf);
+}
