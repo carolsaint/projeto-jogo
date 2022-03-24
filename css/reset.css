@@ -8,10 +8,10 @@
 
 @font-face {
     font-family: dw;
-    src: url(/DoctorBeef-DOyyd.ttf);
+    src: url(/fonts/DoctorBeef-DOyyd.ttf);
 }
 
 @font-face {
     font-family: dw-text;
-    src: url(./SyneMono-Regular.ttf);
+    src: url(/fonts/SyneMono-Regular.ttf);
 }
