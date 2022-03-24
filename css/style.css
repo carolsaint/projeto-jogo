@@ -75,3 +75,31 @@
     width: 100%;
     height: 100%;
 }
+
+/*Media query*/
+@media(max-width:701px){
+    
+    body{
+        display: flex;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .container-main{
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        justify-content: space-evenly;
+        
+    }
+    .intro{
+        width: 80%;
+    }
+
+    #characters{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 90%;
+    }
+}
